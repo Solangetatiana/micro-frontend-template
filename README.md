@@ -9,6 +9,7 @@
 
 ```bash
 $ npm install
+$ npm i serve -g
 ```
 
 ### Build Identity Micro Frontend and start
